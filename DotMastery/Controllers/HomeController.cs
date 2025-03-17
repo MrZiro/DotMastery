@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using DotMastery.Models;
+using Dot.Models.Models;
 
 namespace DotMastery.Controllers;
 

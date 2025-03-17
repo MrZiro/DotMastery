@@ -1,4 +1,4 @@
-namespace DotMastery.Models
+namespace Dot.Models.Models
 {
     public class ErrorViewModel
     {
